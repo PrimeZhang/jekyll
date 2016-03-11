@@ -1,4 +1,11 @@
-Ex Machina 机械夏娃
+---
+layout: default
+title:  Ex Machina 机械夏娃
+---
+　　<h2>{{ page.title }}</h2>
+　　<p>2016. test</p>
+　　<p>{{ page.date | date_to_string }}</p></p></h>
+
 
 这篇影评，一为练笔，二为反正闲着，三为AI.
 
