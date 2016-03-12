@@ -1,10 +1,10 @@
 ---
 title:  Ex Machina 机械夏娃
 ---
-　　<h2>{{ 机械夏娃 }}</h2>
-　　<p>2016. test</p>
-　　<p>{{ page.date | date_to_string }}</p></p></h>
-<p>到底怎么回事呢<p>
+　　{{ 机械夏娃 }}
+　　2016. test
+　　{{ page.date | date_to_string }}
+## 到底怎么回事呢
 
 这篇影评，一为练笔，二为反正闲着，三为AI.
 
