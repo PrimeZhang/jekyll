@@ -1,10 +1,17 @@
 ---
 title:  Ex Machina 机械夏娃
 ---
-　　{{ 机械夏娃 }}
+　　
 　　2016. test
 　　{{ page.date | date_to_string }}
-## 到底怎么回事呢
+　　
+# 　　{{page.title}}
+　　
+## Created in 2015 May.
+
+# 机械夏娃 
+
+## Ex machina 
 
 这篇影评，一为练笔，二为反正闲着，三为AI.
 
