@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  Ex Machina 机械夏娃
 ---
 　　<h2>{{ 机械夏娃 }}</h2>
